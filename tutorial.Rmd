@@ -116,6 +116,7 @@ You need to have Git set up in your project with `use_git()`, then use
 
 ```{r}
 usethis::use_github()
+# this creates a github repository of this project
 ```
 
 ### Connecting from GitHub
